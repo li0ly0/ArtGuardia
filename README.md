@@ -34,3 +34,9 @@
    ```bash
    git clone [https://github.com/yourusername/ArtGuardia.git](https://github.com/yourusername/ArtGuardia.git)
    cd ArtGuardia
+2. **Install Dependencies:**
+   ```bash
+   pip install torch torchvision diffusers PyQt6 lpips pillow numpy
+3.**Run ArtGuardia:**
+   ```bash
+  python3 main.py
