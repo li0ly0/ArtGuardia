@@ -2,6 +2,8 @@
 
 **ArtGuardia** is a desktop application designed to protect digitized paintings from unauthorized replication by Generative AI models, specifically **Stable Diffusion (v1.5)**. By applying adversarial noise within the **latent space** rather than just the pixel level, ArtGuardia creates "adversarial paintings" that look normal to humans but confuse AI replication tools.
 
+![ArtGuardia](./images/ArtGuardiaImage.png)
+
 ## Problem Statement
 Traditional protection (pixel-space perturbations) is often ignored by advanced AI models that convert images into latent representations. ArtGuardia addresses this by targeting the **Latent Representation** directly using the **Projected Gradient Descent (PGD)** algorithm.
 
