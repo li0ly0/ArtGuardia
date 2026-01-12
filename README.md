@@ -50,7 +50,6 @@ The effectiveness of the perturbations is validated using three industry-standar
    ```bash
    python main.py
 
-
 ## Meet the Developers
 ArtGuardia was researched and developed by the following team from the **College of Information and Computing (CIC)**:
 
