@@ -2,18 +2,6 @@
 
 **ArtGuardia** is a desktop application designed to protect digitized paintings from unauthorized replication by Generative AI models, specifically **Stable Diffusion (v1.5)**. By applying adversarial noise within the **latent space** rather than just the pixel level, ArtGuardia creates "adversarial paintings" that look normal to humans but confuse AI replication tools.
 
-> [!NOTE]
-> **Academic Project & Publication Status**
-> This project originated as a **Senior Capstone Project** at the University of Southeastern Philippines. Research related to this system is currently undergoing **journal review and publishing**. Please contact the authors for citation inquiries.
-
-## 👥 Meet the Developers
-ArtGuardia was researched and developed by the following team from the **College of Information and Computing (CIC)**:
-
-* **Beverly Consolacion**
-* **Emmanuel Louise Baylon**
-* **Marc Neo Artiaga**
-  
-
 ## Problem Statement
 Traditional protection (pixel-space perturbations) is often ignored by advanced AI models that convert images into latent representations. ArtGuardia addresses this by targeting the **Latent Representation** directly using the **Projected Gradient Descent (PGD)** algorithm.
 
@@ -61,3 +49,15 @@ The effectiveness of the perturbations is validated using three industry-standar
 3. **Run ArtGuardia:**
    ```bash
    python main.py
+
+
+## Meet the Developers
+ArtGuardia was researched and developed by the following team from the **College of Information and Computing (CIC)**:
+
+* **Beverly Consolacion**
+* **Emmanuel Louise Baylon**
+* **Marc Neo Artiaga**
+
+> [!NOTE]
+> **Academic Project & Publication Status**
+> This project originated as a **Senior Capstone Project** at the University of Southeastern Philippines. Research related to this system is currently undergoing **journal review and publishing**. Please contact the authors for citation inquiries. 
