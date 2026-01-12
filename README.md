@@ -59,4 +59,5 @@ ArtGuardia was researched and developed by the following team from the **College
 
 > [!NOTE]
 > **Academic Project & Publication Status**
-> This project originated as a **Senior Capstone Project** at the University of Southeastern Philippines. Research related to this system is currently undergoing **journal review and publishing**. Please contact the authors for citation inquiries. 
+> This project originated as a **Senior Capstone Project** at the University of Southeastern Philippines (2024-2025). Research related to this system is currently undergoing **journal review and publishing**.
+> **Disclaimer:** As an ongoing research project, users may encounter **bugs or technical issues** in the code. We appreciate your patience and welcome feedback via GitHub Issues. Please contact the authors for citation inquiries. 
